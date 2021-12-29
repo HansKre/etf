@@ -34,7 +34,9 @@
 
 ![vergleich](images/vergleich-1.png)
 
-- Beobachtung: eigentlich spielt es keine Rolle, welchen dieser 3 ETF man wählt.
+- eigentlich sollte es keine Rolle spielen, welchen dieser 3 ETF ich wähle.
+- der iShares Core hat ein wesentlich höheres Marktvolumen (geringeres Risiko? aber welches Risiko?)
+- der Lyxor Core ist neuer, so dass weniger historische Daten verfügbar sind, jedoch hat er die günstigeren Kosten, so dass er langfristig den iShares Core schlagen sollte.
 
 #### Zusammensetzung
 
@@ -47,7 +49,7 @@
 
 ### MSCI Emerging Markets
 
-- Bildet nur die Schwellenländer ab
+- Bildet nur die Schwellenländer ab zur Reduzierung des USA-Klumpenrisikos und zur besseren Nachbildung der BIP-Verteilung der Welt.
 - Link zu [thesaurierenden MSCI Emerging Markets](https://www.justetf.com/de/find-etf.html?assetClass=class-equity&index=MSCI%2BEmerging%2BMarkets&groupField=none&distributionPolicy=distributionPolicy-accumulating&sortField=ter&sortOrder=asc)
 
 ![uebersicht](images/uebersicht-2.png)
@@ -55,7 +57,9 @@
 #### Vergleich MSCI World vs. MSCI Emerging Markets
 
 - Link zum [Vergleich MSCI World vs. MSCI Emerging Markets](https://www.justetf.com/de/find-etf.html?groupField=none&sortField=ter&sortOrder=asc&cmode=compare&tab=comparison)
-- Emerging Markets im letzten Jahr deutlich schlechter performt.
+- Emerging Markets haben im letzten Jahr deutlich schlechter performt.
+- Aus Performance-Gründen ist das MSCI Emerging Markets ETF weniger günstig als das MSCI World ETF.
+- Aufnahme des MSCI Emerging Markets ETF ist eine gute Idee, wenn die Welt-Portfolio-Risiken reduziert werden sollen (bessere Streuung, Reduzierung Klumpenrisiko USA, bessere Nachbildung des Welt-BIP).
 
 ![vergleich-world-emerging](images/vergleich-world-emerging.png)
 
@@ -125,6 +129,8 @@
 
 - Stoxx Europe 600: 17 Länder (zusätzlich Polen und Luxemburg), 600 Unternehmen
   ![stoxx-europe-600](images/stoxx-europe-600.png)
+
+  - Der Stoxx Europe 600 hat nicht nur eine **breitere Streuung**, sondern auch die **günstigeren Kosten**, die **größere Fonds Größe** und auch die **bessere Performance**. Daher klarer Favorit.
 
 ### Target Portfolio
 
