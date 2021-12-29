@@ -63,26 +63,32 @@
 
 - [50-30-20 Portfolio besser? Lohnt sich mehr Europa im Portfolio?](https://www.youtube.com/watch?v=tIQ8UlihLG8)
 
-#### Marktkapitalisierungs vs. BIP
+#### Kritik am MSCI-World
 
-- Marktkapitalisierung eines Unternehmens = Eigenkapitalwert eines Unternehmens an der Börse (Anzahl herausgegebener Aktion x aktueller Börsenkurs)
-- Marktkapitalisierung eines Landes = Summe aller an der Börse gelisteten Unternehmens eines Landes
-- Nordamerika übergewichtet
-  - der Wert nordamerikanischer Unternehmen an der Börse: 55%
-  - der Anteil dieser Unternehmen am Welt-BIP ist aber nur 30%
-  - im Verhältnis ist die Marktkapitalisierung also zu hoch (Blase?)
-  - die eigentliche Wirtschaftskraft ist nämlich deutlich geringer (-25%)
-- Schwellenländer untergewichtet (Marktkapitalisierung sollte doppelt so hoch sein!)
-- Europa untergewichtet
+- **Marktkapitalisierung eines Unternehmens** = Eigenkapitalwert eines Unternehmens an der Börse (Anzahl herausgegebener Aktion x aktueller Börsenkurs)
+- **Marktkapitalisierung eines Landes** = Summe aller an der Börse gelisteter Unternehmen eines Landes
+
+1. Nordamerika übergewichtet
+   1. der Wert nordamerikanischer Unternehmen an der Börse: 55%
+   1. der Beitrag dieser Unternehmen am Welt-BIP ist aber nur 30%
+   1. im Verhältnis ist die Marktkapitalisierung also zu hoch und die Wirtschaftskraft wird verzerrt abgebildet. Die eigentliche Wirtschaftskraft ist nämlich deutlich geringer (-25% geringer!).
+1. Schwellenländer untergewichtet (Marktkapitalisierung sollte doppelt so hoch sein!)
+1. Europa untergewichtet
+1. Mit > 65% stellt die USA ein [`Klumpenrisiko`](https://de.wikipedia.org/wiki/Klumpenrisiko) dar, welches es durch bessere Diversifizierung / breitere Streuung zu mitigieren gilt.
 
 ![marktkapitalisierung-delta](images/marktkapitalisierung-delta.png)
 
-#### 2 Möglichkeiten das starke Gewicht der USA zu reduzieren
+#### Es gibt 2 Möglichkeiten das starke Gewicht der USA zu reduzieren
 
-1. Gewicht der Schwellenländer im Portfolio erhöhen: 70:30 Portfolio
+> Beide Möglichkeiten lassen sich kombinieren und führen jeweils zu einer Reduzierung des Klumpenrisikos.
+
+1. **Möglichkeit 1:** Gewicht der Schwellenländer im Portfolio erhöhen
+
+   > Das führt zum 70:30 Portfolio Portfolio.
+
    ![70-30-portfolio](images/70-30-portfolio.png)
 
-2. Europa-Anteil im MSCI World erhöhen
+2. **Möglichkeit 2:** Europa-Anteil im MSCI World erhöhen
 
    1. MSCI World IST
       ![msci-world-ist](images/msci-world-ist.png)
