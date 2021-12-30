@@ -12,7 +12,7 @@
 - Ausschüttung kann allerdings zu einem Steuervorteil führen, wenn sonst der Freibetrag nicht ausgeschöpft wird.
 - Entscheidung: **<ins>thesaurierend</ins>**.
 
-## Auswahlkriterien
+## Auswahlkriterien an ETFs
 
 - thesaurierend
 - TER: Total Expense Ratio. A percentage that indicates the annual running costs of an ETF. (Gesamtkostenquote)
@@ -63,11 +63,11 @@
 
 ![vergleich-world-emerging](images/vergleich-world-emerging.png)
 
-### 50-30-20 Portfolio
+## 50-30-20 Portfolio
 
 - [50-30-20 Portfolio besser? Lohnt sich mehr Europa im Portfolio?](https://www.youtube.com/watch?v=tIQ8UlihLG8)
 
-#### Kritik am MSCI-World
+### Kritik am MSCI-World
 
 - **Marktkapitalisierung eines Unternehmens** = Eigenkapitalwert eines Unternehmens an der Börse (Anzahl herausgegebener Aktion x aktueller Börsenkurs)
 - **Marktkapitalisierung eines Landes** = Summe aller an der Börse gelisteter Unternehmen eines Landes
@@ -118,7 +118,7 @@
    5. Auteilen des Anteils der Industrieländer
       ![aufteilen-industrielaender-fuer-europa](images/aufteilen-industrielaender-fuer-europa.png)
 
-#### Mögliche Europa Indizes
+### Mögliche Europa Indizes
 
 > Von oben nach unten stärkere Diversifizierung
 
@@ -131,6 +131,13 @@
   ![stoxx-europe-600](images/stoxx-europe-600.png)
 
   - Der Stoxx Europe 600 hat nicht nur eine **breitere Streuung**, sondern auch die **günstigeren Kosten**, die **größere Fonds Größe** und auch die **bessere Performance**. Daher klarer Favorit.
+
+### Anforderungen an Portfolio
+
+- langfristiges Investment
+- bildet den Weltmarkt ab
+- diversifiziert
+- risikoarm, aber renditestark (Balance)
 
 ### Target Portfolio
 
