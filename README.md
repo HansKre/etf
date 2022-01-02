@@ -38,7 +38,7 @@
 - der iShares Core hat ein wesentlich höheres Marktvolumen (geringeres Risiko? aber welches Risiko?)
 - der Lyxor Core ist neuer, so dass weniger historische Daten verfügbar sind, jedoch hat er die günstigeren Kosten, so dass er langfristig den iShares Core schlagen sollte.
 
-#### Zusammensetzung
+#### Zusammensetzung MSCI World
 
 ![zusammensetzung-IE00B4L5Y983](images/zusammensetzung-MSCI-world-iShares-IE00B4L5Y983.png)
 
@@ -53,6 +53,10 @@
 - Link zu [thesaurierenden MSCI Emerging Markets](https://www.justetf.com/de/find-etf.html?assetClass=class-equity&index=MSCI%2BEmerging%2BMarkets&groupField=none&distributionPolicy=distributionPolicy-accumulating&sortField=ter&sortOrder=asc)
 
 ![uebersicht](images/uebersicht-2.png)
+
+#### Zusammensetzung MSCI Emerging Markets
+
+![zusammensetzung-emerging-markets](images/zusammensetzung-emerging-markets.png)
 
 #### Vergleich MSCI World vs. MSCI Emerging Markets
 
@@ -197,6 +201,8 @@ console.log(
 | nach 30 Jahren | 1.361.897,09 € | 649.274,47 € |
 
 #### Beispielrechnung: Versteuerung bei Verkauf
+
+> Bei Sparern und Aktionören wird der Solidaritätszuschlag von 5,5% auch nach 2021 weiterhin auf die Abgeltungssteuer erhoben (sobald der Sparerfreibetrag von 801 Euro ausgeschöpft ist).
 
 ```js
 const laufzeit = 10;
