@@ -47,6 +47,33 @@
 - USA ist **_überproportional_** vertreten (>65%). Dies führt zu einem Klumpenrisiko - geht's USA schlecht, geht das Portfolio runter.
 - Eine bessere Risiko-Streuung wäre wünschenswert.
 
+#### Amundi Index MSCI World SRI UCITS ETF DR (C)
+
+ISIN LU1861134382, WKN A2JSDA
+[Link justETF](https://www.justetf.com/de/etf-profile.html?groupField=none&sortField=ter&sortOrder=asc&from=search&cmode=compare&isin=LU1861134382)
+
+##### Anlagestrategie
+
+Der MSCI World SRI Filtered ex Fossil Fuels Index bietet Zugang zu Unternehmen aus Industrieländern weltweit. Der Index berücksichtigt dabei lediglich Unternehmen, die im Vergleich mit der Konkurrenz aus ihrem Sektor über ein hohes Rating in den Bereichen Umweltschutz, soziale Verantwortung und Unternehmensführung (ESG) verfügen. Ausgeschlossen sind Unternehmen, die wesentliche Teile ihres Geschäfts in nicht nachhaltigen Geschäftsbereichen erwirtschaften. Das maximale Gewicht eines Unternehmen ist auf 5% begrenzt.
+
+##### Vergleich
+
+Der MSCI World SRI Filtered outperformt die 'normalen' MSCI World ETFs.
+
+![vergleich-msci-world-details](images/vergleich-msci-world-details.png)
+
+![vergleich-msci-world-sri](images/vergleich-msci-world-sri.png)
+
+##### Zusammensetzung
+
+> USA hat eine geringere Gewichtung, als im 'normalen' MSCI-World.
+
+![zusammensetzung-sri-laender](images/zusammensetzung-sri-laender.png)
+
+![zusammensetzung-sri-sektoren](images/zusammensetzung-sri-sektoren.png)
+
+![zusammensetzung-sri-positionen](images/zusammensetzung-sri-positionen.png)
+
 ### MSCI Emerging Markets
 
 - Bildet nur die Schwellenländer ab zur Reduzierung des USA-Klumpenrisikos und zur besseren Nachbildung der BIP-Verteilung der Welt.
@@ -147,9 +174,16 @@
 
 | ETF                                                                                                                                                                                                                                                                              | ISIN         | WKN    | Anteil | Betrag   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ | ------ | -------- |
-| [Lyxor Core MSCI World (DR) UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?assetClass=class-equity&index=MSCI%2BWorld&groupField=none&sortField=ter&sortOrder=asc&distributionPolicy=distributionPolicy-accumulating&from=search&isin=LU1781541179)                | LU1781541179 | LYX0YD | 50%    | 15.000 € |
+| [Amundi Index MSCI World SRI UCITS ETF DR (C)](https://www.justetf.com/de/etf-profile.html?groupField=none&sortField=ter&sortOrder=asc&from=search&cmode=compare&isin=LU1861134382#overview)                                                                                     | LU1861134382 | A2JSDA | 50%    | 15.000 € |
 | [Xtrackers MSCI Emerging Markets UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?assetClass=class-equity&index=MSCI%2BEmerging%2BMarkets&groupField=none&distributionPolicy=distributionPolicy-accumulating&sortField=ter&sortOrder=asc&from=search&isin=IE00BTJRMP35) | IE00BTJRMP35 | A12GVR | 30%    | 9.000 €  |
 | [Lyxor Core STOXX Europe 600 (DR) UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?assetClass=class-equity&index=STOXX%25C2%25AE%2BEurope%2B600&groupField=none&sortField=ter&sortOrder=asc&from=search&isin=LU0908500753)                                             | LU0908500753 | LYX0Q0 | 20%    | 6.000 €  |
+
+### Investitionszeitpunkt
+
+Heute, 08.01.2022, scheinen die Märkte zu fallen.
+Es ist besser, zu beobachten und abzuwarten, bis eine Aufwärtstendenz erkennbar ist.
+
+![chart-2022-01-08.png](images/chart-2022-01-08.png)
 
 ## Steuern in Deutschland
 
